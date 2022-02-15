@@ -1,4 +1,4 @@
-# golib/weak_ref ライブラリ
+# l4go/weak_ref ライブラリ
 
 弱参照(弱い参照/weak reference)の機能を提供します。
 
